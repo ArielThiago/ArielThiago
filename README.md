@@ -63,10 +63,18 @@ Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
 
 * Fortnite
 * Rocket League
-...
+* Subnautica
+* Castle Crashers
+* Hotline Miami
+* Bioshock
 
-### Músicas e bandas favoritas
+### Artistas e bandas favoritas
 
 * Ramones
-* Nirvana...
-
+* Eminem
+* Bee Gees
+* Nirvana
+* $uicideboy$
+* Duran Duran
+* Rick Astley
+* Juice WRLD
