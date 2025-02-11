@@ -3,9 +3,12 @@
 
 ## 🌟 Sobre mim
 
-📱 Olá! Meu Nome é Ariel Thiago e sou um estudante do terceiro ano  do ensino médio da escola Sesi, e estou realizando o curso de desenvolvimento de sistemas em parceria com o Senai. No memento eu estou estudando e trabalhando em projetos de jogos, além de grvar vídeo em meu canal no Youtube.
+📱 Olá! Meu Nome é Ariel Thiago e sou um estudante do terceiro ano  do ensino médio da escola Sesi, e estou realizando o curso de desenvolvimento de sistemas em parceria com o Senai. No memento eu estou estudando e trabalhando em projetos de jogos, além de gravar vídeos em meu canal no Youtube.
+
+💡 Sou bem criativo, e aprendo rápido, consigo trabalhar em equipe, principalmente na parte criativa e em códigos de programas.
 
 Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
+
 ## 🌐 Onde me encontrar
 
 <div>
@@ -99,7 +102,6 @@ Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
 * Eminem
 * Bee Gees
 * Nirvana
-* $uicideboy$
 * Duran Duran
 * Rick Astley
 * Juice WRLD
