@@ -1,5 +1,7 @@
 
-# Ariel Thiago
+# 🖖 Oi, eu sou Ariel Thiago
+
+## 🌟 Sobre mim
 
 📱 Olá! Meu Nome é Ariel Thiago e sou um estudante do terceiro ano  do ensino médio da escola Sesi, e estou realizando o curso de desenvolvimento de sistemas em parceria com o Senai. No memento eu estou estudando e trabalhando em projetos de jogos, além de grvar vídeo em meu canal no Youtube.
 
@@ -45,7 +47,30 @@ Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
   <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
 
-## Conquistas e projetos
+## 🛠️ Plataformas e Softwares que utilizo
+
+<a href="https://www.yoyogames.com/en/gamemaker" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/GameMaker-00B5E2?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker">
+</a>
+
+<a href="https://unity.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</a>
+
+<a href="https://visualstudio.microsoft.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
+</a>
+
+<a href="https://www.getpaint.net" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Paint.NET-2B4F1E?style=for-the-badge&logo=paintdotnet&logoColor=white" alt="Paint.NET">
+</a>
+
+<a href="https://www.blender.org" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+</a>
+
+
+## 🏆 Conquistas e projetos
 
 * Concluí o curso de desenvolvimento de games completo da Danki.Code.
 * Youtube: Criação de conteúdo.
@@ -59,7 +84,7 @@ Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
 * 📄 Estudar
 * 📜 Ler
 
-### Games Favoritos
+### 👾 Games Favoritos
 
 * Fortnite
 * Rocket League
@@ -68,7 +93,7 @@ Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
 * Hotline Miami
 * Bioshock
 
-### Artistas e bandas favoritas
+### 🎸 Artistas e bandas favoritas
 
 * Ramones
 * Eminem
