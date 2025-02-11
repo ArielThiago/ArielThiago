@@ -3,11 +3,11 @@
 
 ## 🌟 Sobre mim
 
-📱 Olá! Meu Nome é Ariel Thiago e sou um estudante do terceiro ano  do ensino médio da escola Sesi, e estou realizando o curso de desenvolvimento de sistemas em parceria com o Senai. No memento eu estou estudando e trabalhando em projetos de jogos, além de gravar vídeos em meu canal no Youtube.
+📱 Olá! Meu Nome é Ariel Thiago e sou um estudante do terceiro ano  do ensino médio da escola Sesi, e estou realizando o curso de desenvolvimento de sistemas em parceria com o Senai. No memento eu estou estudando e trabalhando em projetos de jogos, além de gravar vídeos em meu canal no Youtube, tendo séries de games e jogos a parte.
 
-💡 Sou bem criativo, e aprendo rápido, consigo trabalhar em equipe, principalmente na parte criativa e em códigos de programas.
+💡 Sou bem criativo, e aprendo rápido, consigo trabalhar em equipe, principalmente na parte criativa e em códigos de programas, focado principalmente em jogos, mas tendo experiência em ewb, como no html.
 
-Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
+💻Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design.
 
 ## 🌐 Onde me encontrar
 
@@ -78,30 +78,50 @@ Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design. 💻
 * Concluí o curso de desenvolvimento de games completo da Danki.Code.
 * Youtube: Criação de conteúdo.
 * Programação: jogos lançados na plataforma Itch.io, como "The Last Slayer" inspirados em clássicos, como o DOOM de 1993.
+* Atualmente realizando o curso de Desenvolvimento de Sistemas do Senai
+
+## 🎲 Sobre mim
+
+* Aprendo rápido, tenho uma rápida curva de aprendizado
+* Sou um nerd, sei muito da cultura pop e do mundo geek, o que pode ser útil na criação de ideias e projetos
+* Sou focado e sempre quero fazer um bom serviço
+* Estou sempre disposto a ajudar os outros
 
 ### 👍 O que eu gosto de fazer
 
-* 🎮 Jogar vídeogame
-* 🎧 Ouvir músicas
-* 🎨 Desenhar
-* 📄 Estudar
-* 📜 Ler
+* 🎮 Jogar vídeogame, tanto no meu PS4, quanto no Notebook
+* 🎧 Ouvir músicas, dos mais diversos genêros e artistas
+* 🎨 Desenhar, geralmente foco em jogos, animes ou representações bíblicas
+* 📄 Estudar, gosto principalmente de matemática, mas sempre foco em todas
+* 📜 Ler, gosto bastante de ler mangás, HQs, e livros de ficção, suspense e aventura
+* 🎬 Assistir, eu também gosto bastante de ver animes, animações ocidentais, filmes e séries
 
 ### 👾 Games Favoritos
 
-* Fortnite
-* Rocket League
-* Subnautica
-* Castle Crashers
-* Hotline Miami
-* Bioshock
+* Fortnite - Jogo desde a Temporada 1 (2017)
+* Rocket League - Comecei quando o jogo ficou de graça (2020)
+* Subnautica - Comecei desde que o jogo deu de graça na PSN (2020)
+* Castle Crashers - Sempre curti muito, comecei em 2020
+* Hotline Miami - Músicas e gameplay completa, amo demais esse game, comecei em 2018
+* Bioshock - Melhor ambientação dos games e immersive sim, jogo desde 2016
+
+### 📖 Obras Favoritos (Livros, filmes...)
+
+* O Hobbit (Livro)
+* Star Wars (Livro e filme)
+* Vingadores (Filme e algumas HQs)
+* Jojo's Bizarre Adventure (Mangá e Anime)
+* Evangelion (Mangá e Anime)
+* O Médico e o Monstro (Livro)
+* Homem Invisivel (Livro)
+* The Office (Seriado)
 
 ### 🎸 Artistas e bandas favoritas
 
-* Ramones
-* Eminem
-* Bee Gees
-* Nirvana
-* Duran Duran
-* Rick Astley
-* Juice WRLD
+* Ramones - Música favorita: Pet Sematery
+* Eminem - Música favorita: Without Me
+* Bee Gees - Música favorita: I Satrted a Joke
+* Nirvana - Lithium
+* Duran Duran - Ordinary World
+* Rick Astley - Never Gonna Give You Up
+* Juice WRLD - Robbery
