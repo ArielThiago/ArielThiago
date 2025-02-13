@@ -52,7 +52,7 @@
 
 ## 🛠️ Plataformas e Softwares que utilizo
 
-<a href="https://www.yoyogames.com/en/gamemaker" target="_blank">
+<a href="https://gamemaker.io/" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/GameMaker-00B5E2?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker">
 </a>
 
