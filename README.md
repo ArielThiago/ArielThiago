@@ -30,7 +30,7 @@
   <img loading="lazy" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </a>
 
-<a href="https://www.yoyogames.com/gml" target="_blank">
+<a href="https://manual.gamemaker.io/beta/br/GameMaker_Language/GML_Overview/GML_Overview.htm" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=game-maker&logoColor=white" alt="GML">
 </a>
 
@@ -42,7 +42,7 @@
   <img loading="lazy" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </a>
 
-<a href="https://www.java.com" target="_blank">
+<a href="https://docs.oracle.com/en/java/" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </a>
 
