@@ -1,13 +1,15 @@
 
 # 🖖 Oi, eu sou Ariel Thiago
 
-## 🌟 Sobre mim
+## 🌟 Sobre mim  
 
-📱 Olá! Meu Nome é Ariel Thiago e sou um estudante do terceiro ano  do ensino médio da escola Sesi, e estou realizando o curso de desenvolvimento de sistemas em parceria com o Senai. No memento eu estou estudando e trabalhando em projetos de jogos, além de gravar vídeos em meu canal no Youtube, tendo séries de games e jogos a parte.
+📱 Meu nome é **Ariel Thiago**, estudante do **3º ano do Ensino Médio (SESI)** e atualmente cursando **Desenvolvimento de Sistemas (SENAI)**.  
 
-💡 Sou bem criativo, e aprendo rápido, consigo trabalhar em equipe, principalmente na parte criativa e em códigos de programas, focado principalmente em jogos, mas tendo experiência em ewb, como no html.
+💡 Tenho experiência em **criação de jogos, programação e design digital**, com foco em **C#, GML, HTML, CSS, Java e Python**.  
 
-💻Pretendo aprendar mais sobre tecnologia, aperfeiçoar meu game design.
+🎮 Produzo jogos independentes publicados no [Itch.io](https://neowizardgang.itch.io) e conteúdos de games no meu canal do [YouTube](https://www.youtube.com/@neon_charger80).  
+
+💻 Busco constantemente aprimorar minhas habilidades em **game design, desenvolvimento de software e tecnologia em geral**.  
 
 ## 🌐 Onde me encontrar
 
@@ -32,6 +34,10 @@
 
 <a href="https://manual.gamemaker.io/beta/br/GameMaker_Language/GML_Overview/GML_Overview.htm" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=game-maker&logoColor=white" alt="GML">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -72,60 +78,71 @@
   <img loading="lazy" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
 </a>
 
+---
 
-## 🏆 Conquistas e projetos
+## 🏆 Conquistas e Projetos  
 
-* Concluí o curso de desenvolvimento de games completo da Danki.Code.
-* Youtube: Criação de conteúdo.
-* Programação: jogos lançados na plataforma Itch.io, como "The Last Slayer" inspirados em clássicos, como o DOOM de 1993.
-* Atualmente realizando o curso de Desenvolvimento de Sistemas do Senai
+* 🥈 2º Lugar no **Hackathon Agrotech 2025** - Osvaldo Cruz (Equipe *Agro Solutio*)  
+* ✅ Conclusão do curso completo de **Desenvolvimento de Games (Danki.Code)**  
+* 📚 Desenvolvimento de uma **plataforma local de estudos para vestibulares** com foco no ENEM  
+* 🎥 Produção de conteúdo no **YouTube há mais de 3 anos**  
+* 🎮 Jogos lançados no **Itch.io**, inspirados em shooters clássicos e plataformas  
 
-## 🎲 Sobre mim
+---
 
-* Aprendo rápido, tenho uma rápida curva de aprendizado
-* Sou um nerd, sei muito da cultura pop e do mundo geek, o que pode ser útil na criação de ideias e projetos
-* Sou focado e sempre quero fazer um bom serviço
-* Estou sempre disposto a ajudar os outros
+## 🚀 O que faço atualmente  
 
-### 👍 O que eu gosto de fazer
+* 👻 Desenvolvendo um **jogo de terror e quebra-cabeças** no Game Maker  
+* 📘 Cursando **Desenvolvimento de Sistemas (SENAI)**  
+* 🎬 Gravando e editando vídeos para meu canal no YouTube  
 
-* 🎮 Jogar vídeogame, tanto no meu PS4, quanto no Notebook
-* 🎧 Ouvir músicas, dos mais diversos genêros e artistas
-* 🎨 Desenhar, geralmente foco em jogos, animes ou representações bíblicas
-* 📄 Estudar, gosto principalmente de matemática, mas sempre foco em todas
-* 📜 Ler, gosto bastante de ler mangás, HQs, e livros de ficção, suspense e aventura
-* 🎬 Assistir, eu também gosto bastante de ver animes, animações ocidentais, filmes e séries
+---
 
-### 👾 Games Favoritos
+## 🤝 Soft Skills  
 
-* Fortnite - Jogo desde a Temporada 1 (2017)
-* Rocket League - Comecei quando o jogo ficou de graça (2020)
-* Subnautica - Comecei desde que o jogo deu de graça na PSN (2020)
-* Castle Crashers - Sempre curti muito, comecei em 2020
-* Hotline Miami - Músicas e gameplay completa, amo demais esse game, comecei em 2018
-* Bioshock - Melhor ambientação dos games e immersive sim, jogo desde 2016
+* Aprendo rápido e tenho boa curva de aprendizado  
+* Focado e comprometido em entregar um bom trabalho  
+* Trabalho bem em equipe e gosto de colaborar  
+* Disposto a ajudar sempre que possível  
+* Criativo, com forte influência da **cultura geek e pop**  
 
-### 📖 Obras Favoritos (Livros, filmes...)
+---
 
-* O Hobbit (Livro)
-* Star Wars (Livro e filme)
-* Vingadores (Filme e algumas HQs)
-* Jojo's Bizarre Adventure (Mangá e Anime)
-* Evangelion (Mangá e Anime)
-* O Médico e o Monstro (Livro)
-* Homem Invisivel (Livro)
-* The Office (Seriado)
+## 🎲 Interesses Pessoais  
 
-### 🎸 Artistas e bandas favoritas
+### 🎮 Games Favoritos  
+* Fortnite – Jogo desde a Temporada 1 (2017)  
+* Rocket League – Desde 2020  
+* Subnautica – Desde a PSN Plus (2020)  
+* Castle Crashers – Desde 2020  
+* Hotline Miami – Desde 2018  
+* Bioshock – Desde 2016  
 
-* Ramones - Música favorita: Pet Sematery
-* Eminem - Música favorita: Without Me
-* Bee Gees - Música favorita: I Satrted a Joke
-* Nirvana - Lithium
-* Duran Duran - Ordinary World
-* Rick Astley - Never Gonna Give You Up
-* Juice WRLD - Robbery
+### 📖 Obras Favoritas  
+* O Hobbit (Livro)  
+* Star Wars (Livro e Filme)  
+* Vingadores (HQs e Filmes)  
+* Jojo's Bizarre Adventure (Mangá e Anime)  
+* Evangelion (Mangá e Anime)  
+* O Médico e o Monstro (Livro)  
+* O Homem Invisível (Livro)  
+* The Office (Série)  
+
+### 🎸 Artistas e Bandas Favoritas  
+* Ramones – Música favorita: *Pet Sematery*  
+* Descendents – Música favorita: *I’m the One*  
+* Eminem – Música favorita: *Without Me*  
+* Bee Gees – Música favorita: *I Started a Joke*  
+* Nirvana – Música favorita: *Lithium*  
+* Duran Duran – Música favorita: *Ordinary World*  
+* Rick Astley – Música favorita: *Never Gonna Give You Up*  
+* Juice WRLD – Música favorita: *Robbery*  
+
+---
+
+## 📊 Estatísticas GitHub  
 
 <a href="https://github.com/ArielThiago">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielthiago&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arielthiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
