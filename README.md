@@ -113,30 +113,21 @@
 ### 🎮 Games Favoritos  
 * Fortnite – Jogo desde a Temporada 1 (2017)  
 * Rocket League – Desde 2020  
-* Subnautica – Desde a PSN Plus (2020)  
 * Castle Crashers – Desde 2020  
-* Hotline Miami – Desde 2018  
 * Bioshock – Desde 2016  
 
 ### 📖 Obras Favoritas  
 * O Hobbit (Livro)  
 * Star Wars (Livro e Filme)  
-* Vingadores (HQs e Filmes)  
 * Jojo's Bizarre Adventure (Mangá e Anime)  
-* Evangelion (Mangá e Anime)  
-* O Médico e o Monstro (Livro)  
-* O Homem Invisível (Livro)  
 * The Office (Série)  
 
 ### 🎸 Artistas e Bandas Favoritas  
 * Ramones – Música favorita: *Pet Sematery*  
 * Descendents – Música favorita: *I’m the One*  
-* Eminem – Música favorita: *Without Me*  
 * Bee Gees – Música favorita: *I Started a Joke*  
-* Nirvana – Música favorita: *Lithium*  
-* Duran Duran – Música favorita: *Ordinary World*  
-* Rick Astley – Música favorita: *Never Gonna Give You Up*  
-* Juice WRLD – Música favorita: *Robbery*  
+* Nirvana – Música favorita: *Lithium*
+
 
 ---
 
