@@ -3,7 +3,7 @@
 
 ## 🌟 Sobre mim  
 
-📱 Meu nome é **Ariel Thiago**, estudante do **3º ano do Ensino Médio (SESI)** e atualmente cursando **Desenvolvimento de Sistemas (SENAI)**.  
+📱 Meu nome é **Ariel Ribeiro**, técnico em **Desenvolvimento de Sistemas** pelo Senai, e estou cursando **Jogos Digitais** na Fatec.  
 
 💡 Tenho experiência em **criação de jogos, programação e design digital**, com foco em **C#, GML, HTML, CSS, Java e Python**.  
 
