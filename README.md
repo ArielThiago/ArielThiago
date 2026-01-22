@@ -84,7 +84,8 @@
 
 ## 🏆 Conquistas e Projetos  
 
-* 🥈 2º Lugar no **Hackathon Agrotech 2025** - Osvaldo Cruz (Equipe *Agro Solutio*)  
+* 🥈 2º Lugar no **Hackathon Agrotech 2025** - Osvaldo Cruz (Equipe *Agro Solutio*)
+* 📈 7º Lugar em **Jogos Digitais** na Fatec
 * ✅ Conclusão do curso completo de **Desenvolvimento de Games (Danki.Code)**  
 * 📚 Desenvolvimento de uma **plataforma local de estudos para vestibulares** com foco no ENEM  
 * 🎥 Produção de conteúdo no **YouTube há mais de 3 anos**  
@@ -94,8 +95,8 @@
 
 ## 🚀 O que faço atualmente  
 
-* 👻 Desenvolvendo um **jogo de terror e quebra-cabeças** no Game Maker  
-* 📘 Cursando **Desenvolvimento de Sistemas (SENAI)**  
+* 🗄️ Aprimorando o **GitHub**, **LinkedIn** e meu Site de **Portfólio**
+* 📘 Cursando **Jogos Digitais** pela Fatec  
 * 🎬 Gravando e editando vídeos para meu canal no YouTube  
 
 ---
@@ -113,10 +114,11 @@
 ## 🎲 Interesses Pessoais  
 
 ### 🎮 Games Favoritos  
-* Fortnite – Jogo desde a Temporada 1 (2017)  
+* Fortnite – Desde a Temporada 1 (2017)  
 * Rocket League – Desde 2020  
 * Castle Crashers – Desde 2020  
-* Bioshock – Desde 2016  
+* Bioshock – Desde 2016
+* Silent Hill 2 - Desde 2025
 
 ### 📖 Obras Favoritas  
 * O Hobbit (Livro)  
