@@ -7,7 +7,7 @@
 
 💡 Tenho experiência em **criação de jogos, programação e design digital**, com foco em **C#, GML, HTML, CSS, Java e Python**.  
 
-🎮 Produzo jogos independentes publicados no [meu site](https://arielneon-portfolio.vercel.app/), [Itch.io](https://neowizardgang.itch.io) e conteúdos de games no meu canal do [YouTube](https://www.youtube.com/@neon_charger80).  
+🎮 Produzo jogos independentes publicados no [meu site](https://arielribeiro-portfolio.vercel.app/), [Itch.io](https://neowizardgang.itch.io) e conteúdos de games no meu canal do [YouTube](https://www.youtube.com/@neon_charger80).  
 
 💻 Busco constantemente aprimorar minhas habilidades em **game design, desenvolvimento de software e tecnologia em geral**.  
 
