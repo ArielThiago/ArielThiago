@@ -7,14 +7,14 @@
 
 💡 Tenho experiência em **criação de jogos, programação e design digital**, com foco em **C#, GML, HTML, CSS, Java e Python**.  
 
-🎮 Produzo jogos independentes publicados no [meu site](https://arielribeiro-portfolio.vercel.app/), [Itch.io](https://neowizardgang.itch.io) e conteúdos de games no meu canal do [YouTube](https://www.youtube.com/@neon_charger80).  
+🎮 Produzo jogos independentes publicados no [meu site](https://arielthiago-portfolio.vercel.app/), [Itch.io](https://neowizardgang.itch.io) e conteúdos de games no meu canal do [YouTube](https://www.youtube.com/@neon_charger80).  
 
 💻 Busco constantemente aprimorar minhas habilidades em **game design, desenvolvimento de software e tecnologia em geral**.  
 
 ## 🌐 Onde me encontrar
 
 <div>
-<a href="https://arielribeiro-portfolio.vercel.app/" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Portfolio-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<a href="https://arielthiago-portfolio.vercel.app/" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Portfolio-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a> 
 <a href="https://www.youtube.com/@neon_charger80" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a> 
